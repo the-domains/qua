@@ -1,7 +1,7 @@
 name: qua
 favicon: null
-layout_spectrum: 0.5625199601054192
-typography_spectrum: 0.18728412268683314
+layout_spectrum: 0
+typography_spectrum: 0.8798
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6530233239755034
-  lightness: 0.9144374018069357
-  saturation: 0.32930823485367
-  rhythmicContrast: 0.5292538318317384
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
